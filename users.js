@@ -66,7 +66,6 @@ rounter.patch('/:id', (req, res) => {
     
   });
 
-module.exports = rounter;
 
 
 module.exports =  rounter
