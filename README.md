@@ -1,6 +1,33 @@
 This Node.js application allows users to perform CRUD operations on GitHub repositories using the GitHub API. With this application, users can create new repositories, read existing repository details, update repository information, and delete repositories directly from their GitHub account
 
 
+To convert the steps into a README format, you can structure it like this:
+
+---
+
+# Project Setup Guide
+
+## Step 1: Initialize NPM
+
+Initialize NPM inside the folder by running the following command in your terminal:
+
+```bash
+npm init -y
+```
+
+This command will create a `package.json` file with default values.
+
+## Step 2: Install Express
+
+Use the following command to install Express.js:
+
+```bash
+npm install express
+```
+
+---
+
+
 
 Here's a quick overview of the four primary HTTP methods associated with CRUD operations:
 
