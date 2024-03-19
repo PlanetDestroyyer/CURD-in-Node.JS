@@ -19,7 +19,7 @@ This command will create a `package.json` file with default values.
 Use the following command to install Express.js:
 
 ```bash
-npm install express
+npm install express body-parser
 ```
 
 ---
