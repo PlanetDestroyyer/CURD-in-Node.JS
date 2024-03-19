@@ -16,7 +16,7 @@ This command will create a `package.json` file with default values.
 
 ## Step 2: Install Express
 
-Use the following command to install Express.js:
+Use the following command to install Express.js and BodyParser:
 
 ```bash
 npm install express body-parser
