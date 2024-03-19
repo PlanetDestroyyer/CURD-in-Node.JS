@@ -1,4 +1,4 @@
-This Node.js application allows users to perform CRUD operations on GitHub repositories using the GitHub API. With this application, users can create new repositories, read existing repository details, update repository information, and delete repositories directly from their GitHub account
+This Node.js application allows users to perform CRUD operations. With this application, users can create new repositories, read existing repository details, update data from database after updating the current code and adding few more libraries or can create database locally and play with it.
 
 ---
 
