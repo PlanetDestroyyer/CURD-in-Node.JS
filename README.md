@@ -32,3 +32,5 @@ GET: Used for reading or retrieving data from the server.
 POST: Used for creating new data on the server.
 PUT: Used for updating existing data on the server.
 DELETE: Used for removing data from the server.
+
+
